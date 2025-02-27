@@ -15,9 +15,7 @@
 
 
 
-En este repositorio se encuentran todos los notebooks sobre los fundamentos teóricos sobre retículos y anillos para asegurar una firme comprensión de los problemas
-relacionados a la criptografía basada en retículos. En estos cuadernillos trabajaremos las definiciones y aspectos más básicos de estas primitivas matemáticas asi como su implementación y algunos ejemplos prácticos. 
-Todo explicado desde un punto de vista didáctico, con el objetivo de un acercamiento más cercano a la materia.
+En este repositorio se encuentran todos los notebooks sobre los fundamentos teóricos sobre retículos y anillos para asegurar una firme comprensión de los problemas relacionados a la criptografía basada en retículos. En estos cuadernillos trabajaremos las definiciones y aspectos más básicos de estas primitivas matemáticas asi como su implementación y algunos ejemplos prácticos. Todo explicado desde un punto de vista didáctico, con el objetivo de un acercamiento fácil a la materia.
 
 Este repositorio ha sido desplegado en Binder y puede lanzarse sin instalar nada pulsando el botón "Binder" al inicio del README.
 
@@ -32,14 +30,13 @@ Este repositorio ha sido desplegado en Binder y puede lanzarse sin instalar nada
 
 ## Descripción del Proyecto
 
-Este repositorio contiene los anexos sobre problemas relacionados realizados para el TFG «Sobre el nuevo estándar de encapsulado de clave (KEM) post–cuántico» del departamento de matemáticas de la ETSII. Realizado por Gabriel Vacaro e Ignacio Warleta, alumnos de ingeniería del software.
+Este repositorio contiene los anexos sobre Fundamentos Teóricos realizados para el TFG «Sobre el nuevo estándar de encapsulado de clave (KEM) post–cuántico» del departamento de matemáticas de la ETSII. Realizado por Gabriel Vacaro e Ignacio Warleta, alumnos de ingeniería del software.
 
 El proyecto tiene como objetivo complementar el trabajo de documentación e investigación que se ha realizado sobre el nuevo estándar del NIST KYBER-KEM de una forma didáctica. De forma que se pueda entender completamente la primitiva matemática en la que se basa la mayoría de algoritmos de criptografía post-cuántica, los retículos. Así como los problemas en los que se sustentan estos algoritmos.
 
 Los elementos principales del repositorio incluyen:
-- Notebook sobre **Retículos y anillos**: Utilizando, LattPy, una biblioteca de Python desarrollada por Dylan Jones, podemos introducir los conceptos de retículo y de anillo y así aprender a trabajar con ellos en Python.
-- Notebook sobre problemas relacionados con los retículos, donde se encuentran las implementaciones de los problemas **CVP**, **SVP** y **LWE**, explicados paso a paso.
-- Notebook sobre problemas relacionados con los anillos, donde se encuentran las implementaciones de los problemas **MLWE** y **RLWE**, explicados paso a paso.
+- Notebook sobre **Teoría de Retículos**: Utilizando, LattPy, una biblioteca de Python desarrollada por Dylan Jones, podemos introducir los conceptos de retículo y así aprender a trabajar con ellos en Python.
+- Notebook sobre **Teoría de Anillos**: En este cuadernillo, introducimos conceptos tales como anillo, anillo ideal, anillo polinómico y anillo cociente entre otros, además se mostrará una implementación de cada tipo de anillo con ejemplos sencillos para facilitar el aprendizaje.
 
 ## Instalación
 
